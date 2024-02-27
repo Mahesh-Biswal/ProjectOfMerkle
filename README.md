@@ -1,2 +1,2 @@
 # ProjectOfMerkle
-It is having all the project data
+It has all the project data
